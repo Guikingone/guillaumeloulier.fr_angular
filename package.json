@@ -1,0 +1,21 @@
+{
+  "name": "guillaumeloulier.fr",
+  "version": "1.0.0",
+  "description": "Source code of the website guillaumeloulier.fr",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Guillaume Loulier <contact@guillaumeloulier.fr",
+  "license": "MIT"
+}
